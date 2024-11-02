@@ -22,7 +22,9 @@ Otherthan contribution and bug reports, viewers are not allowed to misuse the in
 
 💻 Language Used:
 
-Python
+* PYTHON
+
+![Logo](https://media.giphy.com/media/aQCCNezRpb9Hq/giphy.gif)
 
 ## 🪜 Steps to use:
 
